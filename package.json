@@ -1,0 +1,20 @@
+{
+  "name": "catShelterClass",
+  "version": "1.0.0",
+  "description": "This is information about our project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronscode/cuddly-octo-sniffle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ronscode/cuddly-octo-sniffle/issues"
+  },
+  "homepage": "https://github.com/ronscode/cuddly-octo-sniffle#readme"
+}
